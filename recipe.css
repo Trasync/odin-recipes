@@ -1,0 +1,45 @@
+h1 {
+    color: rgb(8, 7, 7);
+    font-family:cursive; 
+    font-size: 100px;
+    text-align: center;
+}
+
+.box1 {
+    background-color:bisque;
+    width: 500px;
+    height: 100px;
+}
+
+.box2 {
+    background-color:bisque;
+    width: 700px;
+    height: 150px;
+    
+}
+
+ul {
+    list-style-type: disc; 
+    margin: 10px;
+    padding: 0;
+    font-size: large;
+    font-family: cursive;
+    color: white;
+
+}
+
+.box3 {
+    background-color: crimson;
+    width: 700px;
+    height: 100px;
+}
+
+ol {
+    list-style-type: disc; 
+    margin: 10px;
+    padding: 0;
+    font-size: large;
+    font-family: cursive;
+    color: pink;
+
+}
